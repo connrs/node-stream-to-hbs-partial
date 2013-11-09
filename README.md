@@ -1,4 +1,4 @@
-# stream-to-hbs-partial [![Build Status](https://secure.travis-ci.org/connrs/stream-to-hbs-partial.png?branch=master)](http://travis-ci.org/connrs/stream-to-hbs-partial)
+# stream-to-hbs-partial [![Build Status](https://secure.travis-ci.org/connrs/node-stream-to-hbs-partial.png?branch=master)](http://travis-ci.org/connrs/node-stream-to-hbs-partial)
 
 ## Getting Started
 Install the module with: `npm install stream-to-hbs-partial --save`
